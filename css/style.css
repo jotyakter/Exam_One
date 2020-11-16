@@ -1,0 +1,278 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    padding: 25px 0;
+    width: 100%;
+    float: left;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.logo{
+    width: 30%;
+    float: left;
+}
+
+.menu{
+    width: 70%;
+    float: left;
+}
+
+nav{
+    padding-top: 15px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: right;
+    
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #666666;
+    text-transform: uppercase;
+}
+/* header done */
+
+.sec-01{
+    width: 100%;
+    float: left;
+    height: 570px;
+    background: url(../img/icrowdme-PSD---cssauthor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 170px 0px;
+}
+
+.sec-01 h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.sec-01 h1 span{
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.btn_member{
+    padding: 15px 18px;
+    margin: 20px auto 0px auto;
+    display: block;
+    background-color: #99C50A;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+/* done */
+
+.sec_two{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 100px 0px 135px 0px;
+}
+
+.sec_two img{
+    margin-bottom: 50px;
+}
+
+.sec_two h1{
+    font-size: 32px;
+    text-transform: uppercase;
+    padding: 0px 280px;
+    margin-bottom: 70px;
+}
+
+.sec_two h3{
+    font-size: 20px;
+    font-weight: 300;
+    color: #515151;
+    margin-bottom: 55px;
+    padding: 0 50px;
+}
+
+.second_h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: #515151;
+    padding: 0 50px;
+}
+/* done */
+
+.sec_03{
+    width: 100%;
+    float: left;
+}
+
+.part-one{
+    width: 50%;
+    float: left;
+    background-color: #E2F8FF;
+    padding: 50px 0px;
+    height: 400px;
+}
+
+.sub-one{
+
+}
+
+.sub-one-part1{
+    width: 50%;
+    float: left;
+    padding: 65px 65px;
+    text-align: right;
+}
+
+.sub-one-part1 img{
+
+}
+
+.sub-one-part2{
+    width: 50%;
+    float: left;
+}
+
+.sub-one-part2 h1{
+    font-size: 23px;
+    margin-bottom: 45px;
+}
+
+.sub-one-part2 h2{
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+
+.btn-02{
+    padding: 10px 12px;
+    background: #26A6D1;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+/* part-one end */
+
+.part-two{
+    width: 50%;
+    float: left;
+    height: 400px;
+    background-color: #F5F9EB;
+    padding: 50px 0px;
+}
+
+.sub-two{
+
+}
+
+.sub-two-part1{
+    width: 50%;
+    float: left;
+    padding: 65px 65px;
+    text-align: right;
+}
+
+.sub-two-part1 img{
+
+}
+
+.sub-two-part2{
+    width: 50%;
+    float: left;
+}
+
+.sub-two-part2 h1{
+    font-size: 23px;
+    margin-bottom: 45px;
+}
+
+.sub-two-part2 h2{
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+
+.btn-03{
+    padding: 10px 12px;
+    background: #ADD136;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    border-radius: 10px;
+}
+/* Done */
+
+.sec_04{
+    width: 100%;
+    float: left;
+    padding: 20px 0px 50px 0px;
+}
+
+.sec_04-part-one{
+    width: 70%;
+    float: left;
+    padding: 0px 20px 0px 0px;
+}
+
+.sec_04-part-one h1{
+    font-size: 29px;
+}
+
+.sec_04-part-one p{
+    font-size: 15px;
+    color: #8f8f8f;
+}
+
+.sec_04-part-two{
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+
+.btn-04{
+    padding: 10px 12px;
+    border-radius: 15px;
+    background: transparent;
+    border: 1px solid black;
+    margin-top: 15px;
+}
+/* done */
+
+.sec_05{
+    width: 100%;
+    padding: 20px 0px;
+    float: left;
+}
+
+.sec_05 img{
+    text-align: center;
+}
+
+/* done */
+
+.sec-06{
+    width: 100%;
+    float: left;
+    padding: 50px 0px;
+}
+
+.sec-06 h2{
+    text-align: center;
+    font-size: 13px;
+}
